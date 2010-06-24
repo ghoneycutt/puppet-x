@@ -1,4 +1,4 @@
-name    'ghoneycutt-x'
+name    'ghoneycutt-x11'
 version '1.0.0'
 
 ## Add dependencies, if any:
